@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### Welcome to my profile
+
+### I'm Md Abid Hussain
+
+- 🌱 I’m currently learning Java and web development.
 <!--
 **md-abid-hussain/md-abid-hussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
