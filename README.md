@@ -10,6 +10,9 @@
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=md-abid-hussain.md-abid-hussain)
+
+### Hacktoberfest badges
+[![@mdabidhussain's Holopin board](https://holopin.me/mdabidhussain)](https://holopin.io/@mdabidhussain)
 <!--
 **md-abid-hussain/md-abid-hussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
