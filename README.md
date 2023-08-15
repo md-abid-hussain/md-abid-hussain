@@ -16,6 +16,10 @@
 
 ### Progress
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/643bca62e2725773748edb35?variant=dark&roadmaps=frontend%2Cbackend)](https://roadmap.sh)
+[![md-abid-hussain's GitHub | Stats](https://stats.quine.sh/md-abid-hussain/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=md-abid-hussain)
+
+[![md-abid-hussain's GitHub | Languages Over Time](https://stats.quine.sh/md-abid-hussain/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=md-abid-hussain)
+[![md-abid-hussain's GitHub | Topics Over Time](https://stats.quine.sh/md-abid-hussain/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=md-abid-hussain)
 <!--
 **md-abid-hussain/md-abid-hussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
