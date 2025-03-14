@@ -18,15 +18,6 @@ I'm **Md Abid Hussain**, a passionate developer exploring the world of **AI, and
 
 ---
 
-### 📊 GitHub Stats
-
-[![md-abid-hussain's GitHub | Stats](https://stats.quine.sh/md-abid-hussain/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=md-abid-hussain)
-
-[![md-abid-hussain's GitHub | Languages Over Time](https://stats.quine.sh/md-abid-hussain/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=md-abid-hussain)
-[![md-abid-hussain's GitHub | Topics Over Time](https://stats.quine.sh/md-abid-hussain/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=md-abid-hussain)
-
----
-
 ### 🛠 Tech Stack & Tools
 
 **Languages & Frameworks:**
