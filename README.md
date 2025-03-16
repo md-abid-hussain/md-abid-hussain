@@ -13,6 +13,10 @@ I'm **Md Abid Hussain**, a passionate developer exploring the world of **AI, and
 
 ---
 
+<a href="https://gitroll.io/profile/uqH3Mveb93lWSAUDDzvUMFqh4gAy1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uqH3Mveb93lWSAUDDzvUMFqh4gAy1?theme=light" alt="GitRoll Profile Badge"/></a>
+
+---
+
 ### 🏆 Hacktoberfest Badges
 [![@mdabidhussain's Holopin board](https://holopin.me/mdabidhussain)](https://holopin.io/@mdabidhussain)
 
